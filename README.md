@@ -19,6 +19,8 @@
 
 [腾讯架构师](http://timyang.net/)
 
+[HMKcode](http://hmkcode.com/spring-framework-tutorial/)
+
 + Android方面
 
 [魏祝林的csdn博客](http://blog.csdn.net/Android_Tutor/article/list/3)
