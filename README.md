@@ -21,6 +21,8 @@
 
 [HMKcode](http://hmkcode.com/spring-framework-tutorial/)
 
+[javachen](http://blog.javachen.com/categories.html#java)
+
 + Android方面
 
 [魏祝林的csdn博客](http://blog.csdn.net/Android_Tutor/article/list/3)
